@@ -27,3 +27,16 @@ re (regex for value pattern detection)
 
 json (output format)
 
+🚀 How to Run
+Install packages:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the app:
+
+bash
+Copy
+Edit
+streamlit run app.py
